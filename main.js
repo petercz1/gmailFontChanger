@@ -38,7 +38,7 @@ function removeStyles(el) {
       // nodeType == 8 - comment
       if (el.childNodes[child].nodeType == 1)
         // recursion here
-        // if there are child elements, 
+        // if there are child elements, feed them back into 
         removeStyles(el.childNodes[child]);
     }
   }
