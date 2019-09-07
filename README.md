@@ -27,4 +27,5 @@ Go to chrome://extensions/
 
 `chrome://extensions/`
 
-Check or slide 
+Check or slide to 'on' the developer mode (top right);
+
