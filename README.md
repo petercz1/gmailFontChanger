@@ -33,4 +33,4 @@ Download this code in its folder
 
 Drag the folder onto the extensions page.
 
-Done. Use gmail with bigger fonts.
+Done. Use gmail with bigger fonts...
