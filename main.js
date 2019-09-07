@@ -19,7 +19,8 @@ function removeStyles(el) {
 
   // other ideas...
   // el.style.fontStyle = "italic"; // "normal|italic|oblique|initial|inherit"
-  // el.style.fontVariant = "small-caps";
+  // el.style.fontVariant = "small-caps"; // "normal|small-caps|initial|inherit"
+  
 
 
   if (el.childNodes.length > 0) {
