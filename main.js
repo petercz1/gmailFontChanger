@@ -16,7 +16,7 @@ function removeStyles(el) {
   // and setting my own. And changing font and line spacing
   // while I'm at it.
   el.style.fontSize = "medium";
-  el.style.fontFamily = "Ariel";
+  el.style.fontFamily = "Ariel,sans-serif";
   el.style.lineHeight = "1.5";
 
   // other ideas...
