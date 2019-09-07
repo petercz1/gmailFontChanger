@@ -6,3 +6,5 @@ I guess if you've found this then you're also frustrated with the inability to c
 
 The problem is that gmail is built on the fly, with various scripts running and re-running, so you end up with this being re-injected:
 
+<pre>font: small/1.5 Arial,Helvetica,sans-serif;</pre>
+
