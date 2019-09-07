@@ -19,6 +19,7 @@ function removeStyles(el) {
 
   // other ideas...
   // el.style.fontStyle = "italic";
+  
 
   if (el.childNodes.length > 0) {
     for (var child in el.childNodes) {
