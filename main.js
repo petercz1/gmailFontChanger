@@ -1,6 +1,5 @@
 // start things off
 // I set the check interval at 1000 milliseconds
-
 setInterval(() => removeStyles(document.body), 1000);
 
 // recursion - this is called if the
