@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "gmail css cleaner",
+  "name": "gmail font changer",
   "version": "3.0",
 
   "content_scripts": [{
