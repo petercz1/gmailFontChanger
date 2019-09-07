@@ -28,7 +28,7 @@ Go to chrome://extensions/
 
 Check or slide to 'on' the developer mode (top right, or bottom-left if you're using the new Edge-on-Chromium);
 
-Download this code in its folder
+Download this code in its folder (not a folder-within-a-folder)
 
 Drag the folder onto the extensions page.
 
