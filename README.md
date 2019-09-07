@@ -16,3 +16,6 @@ Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed.
 
 This does mean you can get a slight jump as the gmail scripts run and then this runs just after, but at least I can now read my email.
 
+### installation
+
+The il
