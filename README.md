@@ -20,7 +20,8 @@ I've written this for Chrome/Chromium, but I've tested it on a beta of the new M
 
 ### installation
 
-The only files you need are `manifest.json` and `main.js`, but no harm is done by leaving this `README.md` in there as well.
+The only files you need are `manifest.json` and `main.js` in a folder of your choice, but no harm is done by leaving this `README.md` in there as well.
+
 Go to chrome://extensions/
 
 `chrome://extensions/`
