@@ -2,4 +2,4 @@
 
 ![](https://img.shields.io/badge/licence-free-green.svg) ![](https://img.shields.io/badge/frameworks-none-green.svg)
 
-I guess if you've found this then you're also frustrated with the inability to change gmail's font
+I guess if you've found this then you're also frustrated with the inability to change gmail's font (other than making the whole page bigger)
