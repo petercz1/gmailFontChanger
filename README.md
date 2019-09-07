@@ -33,4 +33,4 @@ Download this code in its folder
 
 Drag the folder onto the extensions page.
 
-Done.
+Done. Use gmail
