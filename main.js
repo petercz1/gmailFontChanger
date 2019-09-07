@@ -19,6 +19,7 @@ function removeStyles(el) {
 
   if (el.childNodes.length > 0) {
     for (var child in el.childNodes) {
+      // FYI...
       // nodeType == 1 - element
       // nodeType == 2 - attribute
       // nodeType == 3 - text
