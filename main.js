@@ -24,6 +24,7 @@ function removeStyles(el) {
   // el.style.fontSizeAdjust = "0.65";    // difference between lower/uppercase
   // el.style.letterSpacing = "15px";     // space between letters
   // el.style.color = "blue";
+  // etc...
 
 
   if (el.childNodes.length > 0) {
