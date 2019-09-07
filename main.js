@@ -17,6 +17,9 @@ function removeStyles(el) {
   el.style.fontFamily = "Ariel";
   el.style.lineHeight = "1.5";
 
+  // other ideas...
+  
+
   if (el.childNodes.length > 0) {
     for (var child in el.childNodes) {
       // FYI...
