@@ -1,4 +1,4 @@
-# gmail font changer extension for Chrome/CHromium
+# gmail font changer extension for Chrome/Chromium
 
 ![](https://img.shields.io/badge/licence-free-green.svg) ![](https://img.shields.io/badge/frameworks-none-green.svg)
 
