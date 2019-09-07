@@ -8,3 +8,6 @@ The problem is that gmail is built on the fly, with various scripts running and 
 
 <pre>font: small/1.5 Arial,Helvetica,sans-serif;</pre>
 
+without any way to change it.
+
+I looked into it, and
