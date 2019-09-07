@@ -10,4 +10,4 @@ The problem is that gmail is built on the fly, with various scripts running and 
 
 without any way to change it.
 
-I looked into it, and initially I tried 
+I looked into it, and initially I tried the (deprecated) domsubtree event and then mutation observers
