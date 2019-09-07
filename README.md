@@ -16,6 +16,7 @@ Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed.
 
 This does mean you can get a slight jump as the gmail scripts run and then this runs just after, but at least I can now read my email.
 
+
 ### installation
 
 The only files you need are `manifest.json` and `main.js`, but no harm is done by leaving this `README.md` in there as well.
