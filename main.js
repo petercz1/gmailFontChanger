@@ -18,8 +18,8 @@ function removeStyles(el) {
   el.style.lineHeight = "1.5";
 
   // other ideas...
-  // el.style.fontStyle = "italic";
-  
+  // el.style.fontStyle = "normal|italic|oblique|initial|inherit";
+
 
   if (el.childNodes.length > 0) {
     for (var child in el.childNodes) {
