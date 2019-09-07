@@ -27,4 +27,4 @@ Go to chrome://extensions/
 
 `chrome://extensions/`
 
-
+Check or slide 
