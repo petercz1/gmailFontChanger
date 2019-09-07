@@ -18,7 +18,7 @@ function removeStyles(el) {
   el.style.lineHeight = "1.5";
 
   // other ideas...
-  // 
+  // el.style.fontStyle = "italic";
 
   if (el.childNodes.length > 0) {
     for (var child in el.childNodes) {
