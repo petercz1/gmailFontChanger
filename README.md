@@ -14,3 +14,4 @@ I looked into it, and initially I tried the (deprecated) domsubtree event and th
 
 Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed.
 
+This does mean you can
