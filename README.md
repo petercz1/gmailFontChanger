@@ -18,7 +18,7 @@ This does mean you can get a slight jump as the gmail scripts run and then this 
 
 ### requirements
 
-I've written this for Chrome/Chromium, but I've tested it on a beta of the new 
+I've written this for Chrome/Chromium, but I've tested it on a beta of the new Microsoft Edge built on Chromium and it works a treat.
 
 ### installation
 
