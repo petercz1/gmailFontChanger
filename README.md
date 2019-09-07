@@ -14,6 +14,16 @@ I looked into it, and initially I tried the (deprecated) domsubtree event and th
 
 Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed. I set it to run every second and I don't sense any performance penalty. The down side is that it does mean you can get a slight jump as the gmail scripts run and then this runs just after, but at least I can now read my email.
 
+### how does it work
+
+It iterates through all elements-within-elements and changes the fontsize in the style attribute to 'medium'
+
+`el.style.fontSize = "medium";`
+
+Options are xx-small, x-small, small,, medium, large, x-large, xx-large, smaller, larger, %, initial and inherit.
+
+More info on setting this [here](https://www.w3schools.com/jsref/prop_style_fontsize.asp).
+
 ### requirements
 
 I've written this for Chrome/Chromium, but I've tested it on a beta of the new Microsoft Edge built on Chromium and it works a treat.
