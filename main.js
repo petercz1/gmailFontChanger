@@ -22,7 +22,7 @@ function removeStyles(el) {
   // el.style.fontVariant = "small-caps"; // "normal|small-caps|initial|inherit"
   // el.style.fontWeight = "900";         // "normal|lighter|bold|bolder|value|initial|inherit"
   // el.style.fontSizeAdjust = "0.65";    // difference between lower/uppercase
-  // el.style.letterSpacing = "15px";
+  // el.style.letterSpacing = "15px";     // space between letters
   // el.style.color = "blue";
 
 
