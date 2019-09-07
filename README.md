@@ -34,3 +34,7 @@ Download this code in its folder
 Drag the folder onto the extensions page.
 
 Done. Use gmail with bigger fonts...
+
+### ideas
+
+I've added some ideas in main.js
