@@ -27,7 +27,7 @@ Go to chrome://extensions/
 
 `chrome://extensions/`
 
-Check or slide to 'on' the developer mode (top right);
+Check or slide to 'on' the developer mode (top right, or bottom-left if you're using the new Edge);
 
 Download this code in its folder
 
