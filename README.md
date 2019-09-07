@@ -18,7 +18,9 @@ This does mean you can get a slight jump as the gmail scripts run and then this 
 
 ### requirements
 
-I've written this for 
+I've written this for Chrome/Chromium
+
+
 ### installation
 
 The only files you need are `manifest.json` and `main.js`, but no harm is done by leaving this `README.md` in there as well.
