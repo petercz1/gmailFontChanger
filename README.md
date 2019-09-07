@@ -20,7 +20,7 @@ It iterates through all elements-within-elements and changes the fontsize in the
 
 `el.style.fontSize = "medium";`
 
-Options are xx-small, x-small, small,, medium, large, x-large, xx-large, smaller, larger, %, initial and inherit.
+Options are xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger, %, initial and inherit.
 
 More info on setting this [here](https://www.w3schools.com/jsref/prop_style_fontsize.asp).
 
