@@ -20,7 +20,7 @@ function removeStyles(el) {
   // other ideas...
   // el.style.fontStyle = "italic"; // "normal|italic|oblique|initial|inherit"
   // el.style.fontVariant = "small-caps"; // "normal|small-caps|initial|inherit"
-  // el.style.fontWeight = "900";
+  // el.style.fontWeight = "900"; // "normal|lighter|bold|bolder|value|initial|inherit"
 
 
 
