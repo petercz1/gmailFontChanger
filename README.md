@@ -12,7 +12,7 @@ without any way to change it.
 
 I looked into it, and initially I tried the (deprecated) domsubtree event and then mutation observers, but the response times were huge. I guess that the gmail scripts do an awful lot of dom modifying/checking on refresh.
 
-Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed. I set it to run every second
+Anyhoo, I decided an old-fashioned `setInterval()` was all that was needed. I set it to run every second and
 
 This does mean you can get a slight jump as the gmail scripts run and then this runs just after, but at least I can now read my email.
 
