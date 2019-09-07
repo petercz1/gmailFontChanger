@@ -18,10 +18,10 @@ function removeStyles(el) {
   el.style.lineHeight = "1.5";
 
   // other ideas...
-  // el.style.fontStyle = "italic"; // "normal|italic|oblique|initial|inherit"
+  // el.style.fontStyle = "italic";       // "normal|italic|oblique|initial|inherit"
   // el.style.fontVariant = "small-caps"; // "normal|small-caps|initial|inherit"
-  // el.style.fontWeight = "900"; // "normal|lighter|bold|bolder|value|initial|inherit"
-
+  // el.style.fontWeight = "900";         // "normal|lighter|bold|bolder|value|initial|inherit"
+  // el.style.fontSizeAdjust = "0.58";
 
 
   if (el.childNodes.length > 0) {
