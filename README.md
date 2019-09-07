@@ -18,4 +18,4 @@ This does mean you can get a slight jump as the gmail scripts run and then this 
 
 ### installation
 
-The il
+The only files you need are 
