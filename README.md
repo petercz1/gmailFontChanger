@@ -18,7 +18,7 @@ This does mean you can get a slight jump as the gmail scripts run and then this 
 
 ### requirements
 
-I've written this for Chrome/Chromium
+I've written this for Chrome/Chromiu
 
 
 ### installation
