@@ -21,7 +21,7 @@ function removeStyles(el) {
   // el.style.fontStyle = "italic";       // "normal|italic|oblique|initial|inherit"
   // el.style.fontVariant = "small-caps"; // "normal|small-caps|initial|inherit"
   // el.style.fontWeight = "900";         // "normal|lighter|bold|bolder|value|initial|inherit"
-  // el.style.fontSizeAdjust = "0.65";
+  // el.style.fontSizeAdjust = "0.65";    // difference between lower/uupercase
 
 
   if (el.childNodes.length > 0) {
