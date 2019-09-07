@@ -3,10 +3,6 @@
 
 setInterval(() => removeStyles(document.body), 1000);
 
-// function checker() {
-//   removeStyles(document.body);
-// }
-
 // recursion - this is called if the
 // element has child elements
 removeStyles(document.body);
