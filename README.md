@@ -12,5 +12,4 @@ without any way to change it.
 
 I looked into it, and initially I tried the (deprecated) domsubtree event and then mutation observers, but the response times were huge. I guess that the gmail scripts do an awful lot of dom modifying/checking on refresh.
 
-Anyhoo, I decided an old-fashioned `
-Anyhoo, I decided an old-fashioned `
+Anyhoo, I decided an old-fashioned `setInterval()
